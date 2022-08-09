@@ -1,3 +1,5 @@
+# Programmed by Yamile Garcia Alvarez, Axel Leonardo Albarran Fernandez & Lorena Ruelas Gaytán
+
 import Sucesiones
 import RelacionesFunciones
 import tablasV
